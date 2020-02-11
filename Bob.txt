@@ -1,4 +1,4 @@
 And I'm Bob =)
 What if I change the content??
 
-Wow! Now I change the origin one!
+[conflict solved]
