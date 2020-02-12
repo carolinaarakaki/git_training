@@ -4,3 +4,5 @@ Changes to create a new branch!
 Change on github
 
 Change AGAIN?
+
+Second chance to understand stash...
